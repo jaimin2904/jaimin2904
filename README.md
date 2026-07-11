@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi 👋, I'm Jaimin
 
-<!--
-**jaimin2904/jaimin2904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+💻 Learning:
+- Java
+- C++
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- StudentHub Portal
+- Prit Photography Website
+
+📫 Email: your-email@example.com
